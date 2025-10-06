@@ -1,3 +1,6 @@
+## About this project
+This repository collects UX/UI and graphical design concepts and experiments.
+
 # 📚 Today I Learned (TIL)
 
 This repository is a personal collection of **Today I Learned (TIL)** notes.  
